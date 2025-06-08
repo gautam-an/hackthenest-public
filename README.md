@@ -33,7 +33,7 @@ ElectConnect was inspired by a relative who recently became a U.S. citizen and s
 - **Mobile-first UX**: Built for accessibility and clarity, with underrepresented users in mind.
 - **Real-time Personalization**: News and voting info tailored to user location and preferences.
 
-## Impact
+### Impact
 
-ElectConnect empowers users—especially from marginalized or less-informed backgrounds—to confidently navigate elections. By turning civic confusion into civic action, we aim to boost participation, foster community awareness, and strengthen democracy. [Slides](https://docs.google.com/presentation/d/1Tksu7jdBA2WY9hHnM_4sG8Pfw9FAhim9M68VHWZCRn4/edit?usp=sharing)
+ElectConnect empowers users—especially from marginalized or less-informed backgrounds—to confidently navigate elections. By turning civic confusion into civic action, we aim to boost participation, foster community awareness, and strengthen democracy. ([Slides])(https://docs.google.com/presentation/d/1Tksu7jdBA2WY9hHnM_4sG8Pfw9FAhim9M68VHWZCRn4/edit?usp=sharing)
 ---
